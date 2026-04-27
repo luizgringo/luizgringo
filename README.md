@@ -6,28 +6,24 @@
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-<h1 align="center">Hi, I'm Luiz Bueno</h1>
+## Currently
 
-<p align="center">
-  <em>Senior Frontend Developer · Tech Lead · 17+ years building user-focused web systems</em>
-</p>
-
-<p align="center">
-  <a href="https://www.luizbueno.com"><img alt="Website" src="https://img.shields.io/badge/Website-luizbueno.com-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/luizhenriquebueno/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-luizhenriquebueno-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:contact@luizbueno.com"><img alt="Email" src="https://img.shields.io/badge/Email-contact@luizbueno.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.scrum.org/user/293231"><img alt="Scrum.org" src="https://img.shields.io/badge/Scrum.org-PSM%20I-0099E5?style=for-the-badge&logo=scrumalliance&logoColor=white"></a>
-</p>
-
-<p align="center">
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=luizgringo&style=for-the-badge&color=0a0a0a&label=PROFILE+VIEWS">
-  <img alt="Years coding" src="https://img.shields.io/badge/Coding%20since-2009-0a0a0a?style=for-the-badge">
-  <img alt="Based in" src="https://img.shields.io/badge/Based%20in-Belo%20Horizonte%20%C2%B7%20BR-009C3B?style=for-the-badge">
-</p>
-
+```ts
+const luiz = {
+  role: "Senior Frontend Developer",
+  company: "Cactus Gaming",
+  focus: ["iGaming platforms", "Design systems", "Tech leadership"],
+  stack: ["Nuxt 4", "Vue 3", "TypeScript", "Tailwind CSS", "Pinia"],
+  alsoExploring: ["Next.js 16", "React 19", "Server Components", "AI-assisted DX"],
+  mentoring: true,
+  openToCollab: true,
+};
+```
 ---
 
 ## About me
+
+https://luizbueno.com/
 
 I started in I.T. in 2007 and have been shipping web apps since 2009 — from JSP/Java backends to modern Server Components on the edge. I care deeply about **user experience**, **clean architecture** and **mentoring people**.
 
@@ -101,22 +97,6 @@ I started in I.T. in 2007 and have been shipping web apps since 2009 — from JS
 
 ---
 
-## Currently
-
-```ts
-const luiz = {
-  role: "Senior Frontend Developer",
-  company: "Cactus Gaming",
-  focus: ["iGaming platforms", "Design systems", "Tech leadership"],
-  stack: ["Nuxt 4", "Vue 3", "TypeScript", "Tailwind CSS", "Pinia"],
-  alsoExploring: ["Next.js 16", "React 19", "Server Components", "AI-assisted DX"],
-  mentoring: true,
-  openToCollab: true,
-};
-```
-
----
-
 ## Featured projects
 
 | Project | Stack | Highlights |
@@ -132,22 +112,9 @@ const luiz = {
 
 ---
 
-## GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=luizgringo&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizgringo&layout=compact&hide_border=true&theme=tokyonight&langs_count=10">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=luizgringo&hide_border=true&theme=tokyonight">
-</p>
-
----
-
 ## Certifications
 
-- **Tech Lead Program** — *IFTL* · 2024 · [view](https://bit.ly/luizbueno-iftl-techlead)
+- **Tech Lead Program** — *IFTL* · 2024 · [view](https://www.luizbueno.com/images/certifications/iftl-techlead.png)
 - **EF SET Certificate — C2 Proficient** — *EF SET* · 2022 · [view](https://cert.efset.org/SLdq8B)
 - **Professional Scrum Master I (PSM I)** — *Scrum.org* · 2019 · [view](https://www.credly.com/badges/6e801485-b19d-47e9-adaa-89caa7b25571)
 
@@ -164,9 +131,16 @@ const luiz = {
 ## Let's connect
 
 <p align="center">
-  <a href="https://www.luizbueno.com">luizbueno.com</a> ·
-  <a href="https://www.linkedin.com/in/luizhenriquebueno/">LinkedIn</a> ·
-  <a href="mailto:contact@luizbueno.com">contact@luizbueno.com</a>
+  <a href="https://www.luizbueno.com"><img alt="Website" src="https://img.shields.io/badge/Website-luizbueno.com-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/luizhenriquebueno/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-luizhenriquebueno-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:contact@luizbueno.com"><img alt="Email" src="https://img.shields.io/badge/Email-contact@luizbueno.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.scrum.org/user/293231"><img alt="Scrum.org" src="https://img.shields.io/badge/Scrum.org-PSM%20I-0099E5?style=for-the-badge&logo=scrumalliance&logoColor=white"></a>
+</p>
+
+<p align="center">
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=luizgringo&style=for-the-badge&color=0a0a0a&label=PROFILE+VIEWS">
+  <img alt="Years coding" src="https://img.shields.io/badge/Coding%20since-2009-0a0a0a?style=for-the-badge">
+  <img alt="Based in" src="https://img.shields.io/badge/Based%20in-Belo%20Horizonte%20%C2%B7%20BR-009C3B?style=for-the-badge">
 </p>
 
 <p align="center">
