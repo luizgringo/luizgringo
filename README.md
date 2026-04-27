@@ -49,77 +49,25 @@ const luiz = {
 
 ### `$ cat stack.txt`
 
-<table>
-<tr>
-<td valign="top" width="50%">
+<div align="center">
 
 **Frontend**
 
-<p>
-  <a href="https://vuejs.org" title="Vue.js"><img src="https://cdn.simpleicons.org/vuedotjs" width="32" height="32" alt="Vue.js" /></a>&nbsp;&nbsp;
-  <a href="https://nuxt.com" title="Nuxt"><img src="https://cdn.simpleicons.org/nuxt" width="32" height="32" alt="Nuxt" /></a>&nbsp;&nbsp;
-  <a href="https://react.dev" title="React"><img src="https://cdn.simpleicons.org/react" width="32" height="32" alt="React" /></a>&nbsp;&nbsp;
-  <a href="https://nextjs.org" title="Next.js"><img src="https://cdn.simpleicons.org/nextdotjs/000000" width="32" height="32" alt="Next.js" /></a>&nbsp;&nbsp;
-  <a href="https://angular.dev" title="Angular"><img src="https://cdn.simpleicons.org/angular" width="32" height="32" alt="Angular" /></a>&nbsp;&nbsp;
-  <a href="https://www.typescriptlang.org" title="TypeScript"><img src="https://cdn.simpleicons.org/typescript" width="32" height="32" alt="TypeScript" /></a>&nbsp;&nbsp;
-  <a href="https://tailwindcss.com" title="Tailwind CSS"><img src="https://cdn.simpleicons.org/tailwindcss" width="32" height="32" alt="Tailwind CSS" /></a>&nbsp;&nbsp;
-  <a href="https://sass-lang.com" title="Sass"><img src="https://cdn.simpleicons.org/sass" width="32" height="32" alt="Sass" /></a>&nbsp;&nbsp;
-  <a href="https://pinia.vuejs.org" title="Pinia"><img src="https://cdn.simpleicons.org/pinia" width="32" height="32" alt="Pinia" /></a>&nbsp;&nbsp;
-  <a href="https://redux.js.org" title="Redux"><img src="https://cdn.simpleicons.org/redux" width="32" height="32" alt="Redux" /></a>&nbsp;&nbsp;
-  <a href="https://vite.dev" title="Vite"><img src="https://cdn.simpleicons.org/vite" width="32" height="32" alt="Vite" /></a>
-</p>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vue,nuxtjs,react,nextjs,angular,ts,tailwind,sass,pinia,redux,vite&perline=11" alt="Vue, Nuxt, React, Next.js, Angular, TypeScript, Tailwind, Sass, Pinia, Redux, Vite" /></a>
 
 **Backend**
 
-<p>
-  <a href="https://nodejs.org" title="Node.js"><img src="https://cdn.simpleicons.org/nodedotjs" width="32" height="32" alt="Node.js" /></a>&nbsp;&nbsp;
-  <a href="https://nestjs.com" title="NestJS"><img src="https://cdn.simpleicons.org/nestjs" width="32" height="32" alt="NestJS" /></a>&nbsp;&nbsp;
-  <a href="https://expressjs.com" title="Express"><img src="https://cdn.simpleicons.org/express/000000" width="32" height="32" alt="Express" /></a>&nbsp;&nbsp;
-  <a href="https://strapi.io" title="Strapi"><img src="https://cdn.simpleicons.org/strapi" width="32" height="32" alt="Strapi" /></a>&nbsp;&nbsp;
-  <a href="https://www.java.com" title="Java"><img src="https://cdn.simpleicons.org/openjdk" width="32" height="32" alt="Java" /></a>&nbsp;&nbsp;
-  <a href="https://www.apollographql.com" title="Apollo GraphQL"><img src="https://cdn.simpleicons.org/apollographql" width="32" height="32" alt="Apollo GraphQL" /></a>
-</p>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,java,graphql,php&perline=6" alt="Node.js, NestJS, Express, Java, GraphQL, PHP" /></a>
 
-</td>
-<td valign="top" width="50%">
+**Data · Cloud · Testing · Design**
 
-**Cloud & Tooling**
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mongodb,vercel,gcp,aws,azure,github,gitlab,jest,figma&perline=10" alt="Postgres, MongoDB, Vercel, GCP, AWS, Azure, GitHub, GitLab, Jest, Figma" /></a>
 
-<p>
-  <a href="https://vercel.com" title="Vercel"><img src="https://cdn.simpleicons.org/vercel/000000" width="32" height="32" alt="Vercel" /></a>&nbsp;&nbsp;
-  <a href="https://cloud.google.com" title="Google Cloud"><img src="https://cdn.simpleicons.org/googlecloud" width="32" height="32" alt="Google Cloud" /></a>&nbsp;&nbsp;
-  <a href="https://aws.amazon.com" title="AWS"><img src="https://cdn.simpleicons.org/amazonwebservices" width="32" height="32" alt="AWS" /></a>&nbsp;&nbsp;
-  <a href="https://github.com" title="GitHub"><img src="https://cdn.simpleicons.org/github/181717" width="32" height="32" alt="GitHub" /></a>&nbsp;&nbsp;
-  <a href="https://gitlab.com" title="GitLab"><img src="https://cdn.simpleicons.org/gitlab" width="32" height="32" alt="GitLab" /></a>&nbsp;&nbsp;
-  <a href="https://biomejs.dev" title="Biome"><img src="https://cdn.simpleicons.org/biome" width="32" height="32" alt="Biome" /></a>&nbsp;&nbsp;
-  <a href="https://jestjs.io" title="Jest"><img src="https://cdn.simpleicons.org/jest" width="32" height="32" alt="Jest" /></a>&nbsp;&nbsp;
-  <a href="https://playwright.dev" title="Playwright"><img src="https://cdn.simpleicons.org/playwright" width="32" height="32" alt="Playwright" /></a>
-</p>
+<sub><strong>also using:</strong> Strapi · Oracle DB · SQL Server · Biome · Playwright · Cursor · Claude · ChatGPT · GitHub Copilot</sub>
 
-**Data**
+<sub>icons by <a href="https://skillicons.dev">skillicons.dev</a></sub>
 
-<p>
-  <a href="https://www.postgresql.org" title="PostgreSQL"><img src="https://cdn.simpleicons.org/postgresql" width="32" height="32" alt="PostgreSQL" /></a>&nbsp;&nbsp;
-  <a href="https://www.mongodb.com" title="MongoDB"><img src="https://cdn.simpleicons.org/mongodb" width="32" height="32" alt="MongoDB" /></a>&nbsp;&nbsp;
-  <a href="https://www.oracle.com/database" title="Oracle DB"><img src="https://cdn.simpleicons.org/oracle" width="32" height="32" alt="Oracle DB" /></a>&nbsp;&nbsp;
-  <a href="https://www.microsoft.com/sql-server" title="SQL Server"><img src="https://cdn.simpleicons.org/microsoftsqlserver" width="32" height="32" alt="SQL Server" /></a>
-</p>
-
-**Design & AI**
-
-<p>
-  <a href="https://www.figma.com" title="Figma"><img src="https://cdn.simpleicons.org/figma" width="32" height="32" alt="Figma" /></a>&nbsp;&nbsp;
-  <a href="https://cursor.com" title="Cursor"><img src="https://cdn.simpleicons.org/cursor/000000" width="32" height="32" alt="Cursor" /></a>&nbsp;&nbsp;
-  <a href="https://www.anthropic.com/claude" title="Claude"><img src="https://cdn.simpleicons.org/anthropic" width="32" height="32" alt="Claude" /></a>&nbsp;&nbsp;
-  <a href="https://chat.openai.com" title="ChatGPT"><img src="https://cdn.simpleicons.org/openai" width="32" height="32" alt="ChatGPT" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/features/copilot" title="GitHub Copilot"><img src="https://cdn.simpleicons.org/githubcopilot/181717" width="32" height="32" alt="GitHub Copilot" /></a>
-</p>
-
-</td>
-</tr>
-</table>
-
-<sub>icons by <a href="https://simpleicons.org">simpleicons.org</a> · click any to open the official site</sub>
+</div>
 
 ---
 
@@ -134,37 +82,6 @@ const luiz = {
 | 05  | **Brius / Luther**                                            | Vue 3 · Nuxt · Strapi · Claude     | GenAI bootstrap · tech leadership @ ETUS     |
 
 <sub>full case studies and writeups at <a href="https://www.luizbueno.com/portfolio">luizbueno.com/portfolio</a></sub>
-
----
-
-### `$ uptime`
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=luizgringo&show_icons=true&hide_border=true&theme=dark&bg_color=0a0a0a&title_color=00ff66&icon_color=00ff66&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizgringo&layout=compact&hide_border=true&theme=dark&bg_color=0a0a0a&title_color=00ff66&text_color=c9d1d9&langs_count=8" />
-
-<br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=luizgringo&hide_border=true&theme=dark&background=0a0a0a&ring=00ff66&fire=00ff66&currStreakLabel=00ff66" />
-
-</div>
-
----
-
-### `$ ./snake.sh`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luizgringo/luizgringo/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luizgringo/luizgringo/output/github-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/luizgringo/luizgringo/output/github-snake.svg" />
-</picture>
-
-<sub>generated daily by <a href="https://github.com/Platane/snk">Platane/snk</a> · workflow in <code>.github/workflows/snake.yml</code></sub>
-
-</div>
 
 ---
 
