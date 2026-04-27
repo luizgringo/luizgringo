@@ -21,10 +21,6 @@
 <a href="https://www.linkedin.com/in/luizhenriquebueno/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:contact@luizbueno.com"><img src="https://img.shields.io/badge/-contact@luizbueno.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.scrum.org/user/293231"><img src="https://img.shields.io/badge/-PSM%20I-0099E5?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Scrum.org PSM I" /></a>
-
-<br />
-<img src="https://komarev.com/ghpvc/?username=luizgringo&style=flat-square&color=00ff66&label=visitors" alt="Profile views" />
-
 </div>
 
 ---
