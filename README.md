@@ -89,7 +89,7 @@ const luiz = {
 
 | Type            | Title                                       | Year                                                                       |
 | --------------- | ------------------------------------------- | -------------------------------------------------------------------------- |
-| Certification   | Tech Lead Program · IFTL                    | [2024](https://bit.ly/luizbueno-iftl-techlead)                             |
+| Certification   | Tech Lead Program · IFTL                    | [2024](https://www.luizbueno.com/images/certifications/iftl-techlead.png)  |                          |
 | Certification   | Professional Scrum Master I · Scrum.org     | [2019](https://www.credly.com/badges/6e801485-b19d-47e9-adaa-89caa7b25571) |
 | Language        | EF SET English C2 Proficient                | [2022](https://cert.efset.org/SLdq8B)                                      |
 | Postgraduate    | UX Design & Agile Frameworks · PUC Minas    | 2022                                                                       |
