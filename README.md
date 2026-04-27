@@ -47,66 +47,66 @@ I started in I.T. in 2007 and have been shipping web apps since 2009 — from JS
 **Frontend**
 
 <p align="left">
-  <a href="https://vuejs.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/vuedotjs" width="36" height="36" alt="Vue.js" title="Vue.js" /></a>
-  <a href="https://nuxt.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/nuxt" width="36" height="36" alt="Nuxt" title="Nuxt" /></a>
-  <a href="https://react.dev" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/react" width="36" height="36" alt="React" title="React" /></a>
-  <a href="https://nextjs.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/nextdotjs/000000" width="36" height="36" alt="Next.js" title="Next.js" /></a>
-  <a href="https://angular.dev" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/angular" width="36" height="36" alt="Angular" title="Angular" /></a>
-  <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/typescript" width="36" height="36" alt="TypeScript" title="TypeScript" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/javascript" width="36" height="36" alt="JavaScript" title="JavaScript" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/html5" width="36" height="36" alt="HTML5" title="HTML5" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/css3" width="36" height="36" alt="CSS3" title="CSS3" /></a>
-  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/tailwindcss" width="36" height="36" alt="Tailwind CSS" title="Tailwind CSS" /></a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/sass" width="36" height="36" alt="Sass" title="Sass" /></a>
-  <a href="https://pinia.vuejs.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/pinia" width="36" height="36" alt="Pinia" title="Pinia" /></a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/redux" width="36" height="36" alt="Redux" title="Redux" /></a>
+  <a href="https://vuejs.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/vuedotjs" width="36" height="36" alt="Vue.js" title="Vue.js" /></a>&nbsp;&nbsp;
+  <a href="https://nuxt.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/nuxt" width="36" height="36" alt="Nuxt" title="Nuxt" /></a>&nbsp;&nbsp;
+  <a href="https://react.dev" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/react" width="36" height="36" alt="React" title="React" /></a>&nbsp;&nbsp;
+  <a href="https://nextjs.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/nextdotjs/000000" width="36" height="36" alt="Next.js" title="Next.js" /></a>&nbsp;&nbsp;
+  <a href="https://angular.dev" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/angular" width="36" height="36" alt="Angular" title="Angular" /></a>&nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/typescript" width="36" height="36" alt="TypeScript" title="TypeScript" /></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/javascript" width="36" height="36" alt="JavaScript" title="JavaScript" /></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/html5" width="36" height="36" alt="HTML5" title="HTML5" /></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/css3" width="36" height="36" alt="CSS3" title="CSS3" /></a>&nbsp;&nbsp;
+  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/tailwindcss" width="36" height="36" alt="Tailwind CSS" title="Tailwind CSS" /></a>&nbsp;&nbsp;
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/sass" width="36" height="36" alt="Sass" title="Sass" /></a>&nbsp;&nbsp;
+  <a href="https://pinia.vuejs.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/pinia" width="36" height="36" alt="Pinia" title="Pinia" /></a>&nbsp;&nbsp;
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/redux" width="36" height="36" alt="Redux" title="Redux" /></a>&nbsp;&nbsp;
   <a href="https://vite.dev" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/vite" width="36" height="36" alt="Vite" title="Vite" /></a>
 </p>
 
 **Backend**
 
 <p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/nodedotjs" width="36" height="36" alt="Node.js" title="Node.js" /></a>
-  <a href="https://nestjs.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/nestjs" width="36" height="36" alt="NestJS" title="NestJS" /></a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/express/000000" width="36" height="36" alt="Express" title="Express" /></a>
-  <a href="https://strapi.io" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/strapi" width="36" height="36" alt="Strapi" title="Strapi" /></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/openjdk" width="36" height="36" alt="Java" title="Java" /></a>
-  <a href="https://www.apollographql.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/apollographql" width="36" height="36" alt="Apollo GraphQL" title="Apollo GraphQL" /></a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/nodedotjs" width="36" height="36" alt="Node.js" title="Node.js" /></a>&nbsp;&nbsp;
+  <a href="https://nestjs.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/nestjs" width="36" height="36" alt="NestJS" title="NestJS" /></a>&nbsp;&nbsp;
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/express/000000" width="36" height="36" alt="Express" title="Express" /></a>&nbsp;&nbsp;
+  <a href="https://strapi.io" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/strapi" width="36" height="36" alt="Strapi" title="Strapi" /></a>&nbsp;&nbsp;
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/openjdk" width="36" height="36" alt="Java" title="Java" /></a>&nbsp;&nbsp;
+  <a href="https://www.apollographql.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/apollographql" width="36" height="36" alt="Apollo GraphQL" title="Apollo GraphQL" /></a>&nbsp;&nbsp;
   <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/php" width="36" height="36" alt="PHP" title="PHP" /></a>
 </p>
 
 **Data**
 
 <p align="left">
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/postgresql" width="36" height="36" alt="PostgreSQL" title="PostgreSQL" /></a>
-  <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/mongodb" width="36" height="36" alt="MongoDB" title="MongoDB" /></a>
-  <a href="https://www.oracle.com/database" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/oracle" width="36" height="36" alt="Oracle DB" title="Oracle DB" /></a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/postgresql" width="36" height="36" alt="PostgreSQL" title="PostgreSQL" /></a>&nbsp;&nbsp;
+  <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/mongodb" width="36" height="36" alt="MongoDB" title="MongoDB" /></a>&nbsp;&nbsp;
+  <a href="https://www.oracle.com/database" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/oracle" width="36" height="36" alt="Oracle DB" title="Oracle DB" /></a>&nbsp;&nbsp;
   <a href="https://www.microsoft.com/sql-server" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/microsoftsqlserver" width="36" height="36" alt="SQL Server" title="SQL Server" /></a>
 </p>
 
 **Cloud / DevOps / Tooling**
 
 <p align="left">
-  <a href="https://vercel.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/vercel/000000" width="36" height="36" alt="Vercel" title="Vercel" /></a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/googlecloud" width="36" height="36" alt="Google Cloud" title="Google Cloud" /></a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/amazonwebservices" width="36" height="36" alt="AWS" title="AWS" /></a>
-  <a href="https://azure.microsoft.com/products/devops" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/azuredevops" width="36" height="36" alt="Azure DevOps" title="Azure DevOps" /></a>
-  <a href="https://github.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/github/181717" width="36" height="36" alt="GitHub" title="GitHub" /></a>
-  <a href="https://gitlab.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/gitlab" width="36" height="36" alt="GitLab" title="GitLab" /></a>
-  <a href="https://biomejs.dev" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/biome" width="36" height="36" alt="Biome" title="Biome" /></a>
-  <a href="https://eslint.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/eslint" width="36" height="36" alt="ESLint" title="ESLint" /></a>
-  <a href="https://prettier.io" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/prettier" width="36" height="36" alt="Prettier" title="Prettier" /></a>
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/jest" width="36" height="36" alt="Jest" title="Jest" /></a>
+  <a href="https://vercel.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/vercel/000000" width="36" height="36" alt="Vercel" title="Vercel" /></a>&nbsp;&nbsp;
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/googlecloud" width="36" height="36" alt="Google Cloud" title="Google Cloud" /></a>&nbsp;&nbsp;
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/amazonwebservices" width="36" height="36" alt="AWS" title="AWS" /></a>&nbsp;&nbsp;
+  <a href="https://azure.microsoft.com/products/devops" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/azuredevops" width="36" height="36" alt="Azure DevOps" title="Azure DevOps" /></a>&nbsp;&nbsp;
+  <a href="https://github.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/github/181717" width="36" height="36" alt="GitHub" title="GitHub" /></a>&nbsp;&nbsp;
+  <a href="https://gitlab.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/gitlab" width="36" height="36" alt="GitLab" title="GitLab" /></a>&nbsp;&nbsp;
+  <a href="https://biomejs.dev" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/biome" width="36" height="36" alt="Biome" title="Biome" /></a>&nbsp;&nbsp;
+  <a href="https://eslint.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/eslint" width="36" height="36" alt="ESLint" title="ESLint" /></a>&nbsp;&nbsp;
+  <a href="https://prettier.io" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/prettier" width="36" height="36" alt="Prettier" title="Prettier" /></a>&nbsp;&nbsp;
+  <a href="https://jestjs.io" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/jest" width="36" height="36" alt="Jest" title="Jest" /></a>&nbsp;&nbsp;
   <a href="https://playwright.dev" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/playwright" width="36" height="36" alt="Playwright" title="Playwright" /></a>
 </p>
 
 **Design & AI**
 
 <p align="left">
-  <a href="https://www.figma.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/figma" width="36" height="36" alt="Figma" title="Figma" /></a>
-  <a href="https://cursor.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/cursor/000000" width="36" height="36" alt="Cursor" title="Cursor" /></a>
-  <a href="https://www.anthropic.com/claude" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/anthropic" width="36" height="36" alt="Claude" title="Claude" /></a>
-  <a href="https://chat.openai.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/openai" width="36" height="36" alt="ChatGPT" title="ChatGPT" /></a>
+  <a href="https://www.figma.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/figma" width="36" height="36" alt="Figma" title="Figma" /></a>&nbsp;&nbsp;
+  <a href="https://cursor.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/cursor/000000" width="36" height="36" alt="Cursor" title="Cursor" /></a>&nbsp;&nbsp;
+  <a href="https://www.anthropic.com/claude" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/anthropic" width="36" height="36" alt="Claude" title="Claude" /></a>&nbsp;&nbsp;
+  <a href="https://chat.openai.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/openai" width="36" height="36" alt="ChatGPT" title="ChatGPT" /></a>&nbsp;&nbsp;
   <a href="https://github.com/features/copilot" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/githubcopilot/181717" width="36" height="36" alt="GitHub Copilot" title="GitHub Copilot" /></a>
 </p>
 
