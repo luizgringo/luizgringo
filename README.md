@@ -46,59 +46,69 @@ I started in I.T. in 2007 and have been shipping web apps since 2009 — from JS
 
 **Frontend**
 
-![Vue.js](https://img.shields.io/badge/Vue.js%203-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)
-![Next.js](https://img.shields.io/badge/Next.js%2016-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Pinia](https://img.shields.io/badge/Pinia-FFD43B?style=flat-square&logo=pinia&logoColor=000)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+<p align="left">
+  <a href="https://vuejs.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/vuedotjs" width="36" height="36" alt="Vue.js" title="Vue.js" /></a>
+  <a href="https://nuxt.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/nuxt" width="36" height="36" alt="Nuxt" title="Nuxt" /></a>
+  <a href="https://react.dev" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/react" width="36" height="36" alt="React" title="React" /></a>
+  <a href="https://nextjs.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/nextdotjs/000000" width="36" height="36" alt="Next.js" title="Next.js" /></a>
+  <a href="https://angular.dev" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/angular" width="36" height="36" alt="Angular" title="Angular" /></a>
+  <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/typescript" width="36" height="36" alt="TypeScript" title="TypeScript" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/javascript" width="36" height="36" alt="JavaScript" title="JavaScript" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/html5" width="36" height="36" alt="HTML5" title="HTML5" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/css3" width="36" height="36" alt="CSS3" title="CSS3" /></a>
+  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/tailwindcss" width="36" height="36" alt="Tailwind CSS" title="Tailwind CSS" /></a>
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/sass" width="36" height="36" alt="Sass" title="Sass" /></a>
+  <a href="https://pinia.vuejs.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/pinia" width="36" height="36" alt="Pinia" title="Pinia" /></a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/redux" width="36" height="36" alt="Redux" title="Redux" /></a>
+  <a href="https://vite.dev" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/vite" width="36" height="36" alt="Vite" title="Vite" /></a>
+</p>
 
 **Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
-![Strapi](https://img.shields.io/badge/Strapi-4945FF?style=flat-square&logo=strapi&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=flat-square&logo=apollographql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+<p align="left">
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/nodedotjs" width="36" height="36" alt="Node.js" title="Node.js" /></a>
+  <a href="https://nestjs.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/nestjs" width="36" height="36" alt="NestJS" title="NestJS" /></a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/express/000000" width="36" height="36" alt="Express" title="Express" /></a>
+  <a href="https://strapi.io" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/strapi" width="36" height="36" alt="Strapi" title="Strapi" /></a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/openjdk" width="36" height="36" alt="Java" title="Java" /></a>
+  <a href="https://www.apollographql.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/apollographql" width="36" height="36" alt="Apollo GraphQL" title="Apollo GraphQL" /></a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/php" width="36" height="36" alt="PHP" title="PHP" /></a>
+</p>
 
 **Data**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle%20DB-F80000?style=flat-square&logo=oracle&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+<p align="left">
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/postgresql" width="36" height="36" alt="PostgreSQL" title="PostgreSQL" /></a>
+  <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/mongodb" width="36" height="36" alt="MongoDB" title="MongoDB" /></a>
+  <a href="https://www.oracle.com/database" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/oracle" width="36" height="36" alt="Oracle DB" title="Oracle DB" /></a>
+  <a href="https://www.microsoft.com/sql-server" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/microsoftsqlserver" width="36" height="36" alt="SQL Server" title="SQL Server" /></a>
+</p>
 
 **Cloud / DevOps / Tooling**
 
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
-![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![Biome](https://img.shields.io/badge/Biome-60A5FA?style=flat-square&logo=biome&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=000)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+<p align="left">
+  <a href="https://vercel.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/vercel/000000" width="36" height="36" alt="Vercel" title="Vercel" /></a>
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/googlecloud" width="36" height="36" alt="Google Cloud" title="Google Cloud" /></a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/amazonwebservices" width="36" height="36" alt="AWS" title="AWS" /></a>
+  <a href="https://azure.microsoft.com/products/devops" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/azuredevops" width="36" height="36" alt="Azure DevOps" title="Azure DevOps" /></a>
+  <a href="https://github.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/github/181717" width="36" height="36" alt="GitHub" title="GitHub" /></a>
+  <a href="https://gitlab.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/gitlab" width="36" height="36" alt="GitLab" title="GitLab" /></a>
+  <a href="https://biomejs.dev" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/biome" width="36" height="36" alt="Biome" title="Biome" /></a>
+  <a href="https://eslint.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/eslint" width="36" height="36" alt="ESLint" title="ESLint" /></a>
+  <a href="https://prettier.io" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/prettier" width="36" height="36" alt="Prettier" title="Prettier" /></a>
+  <a href="https://jestjs.io" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/jest" width="36" height="36" alt="Jest" title="Jest" /></a>
+  <a href="https://playwright.dev" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/playwright" width="36" height="36" alt="Playwright" title="Playwright" /></a>
+</p>
 
 **Design & AI**
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000?style=flat-square&logo=cursor&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white)
-![Copilot](https://img.shields.io/badge/GitHub%20Copilot-181717?style=flat-square&logo=githubcopilot&logoColor=white)
+<p align="left">
+  <a href="https://www.figma.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/figma" width="36" height="36" alt="Figma" title="Figma" /></a>
+  <a href="https://cursor.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/cursor/000000" width="36" height="36" alt="Cursor" title="Cursor" /></a>
+  <a href="https://www.anthropic.com/claude" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/anthropic" width="36" height="36" alt="Claude" title="Claude" /></a>
+  <a href="https://chat.openai.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/openai" width="36" height="36" alt="ChatGPT" title="ChatGPT" /></a>
+  <a href="https://github.com/features/copilot" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/githubcopilot/181717" width="36" height="36" alt="GitHub Copilot" title="GitHub Copilot" /></a>
+</p>
 
 ---
 
