@@ -25,6 +25,11 @@ const luiz = {
 
 https://luizbueno.com/
 
+<p align="center">
+  <img alt="Years coding" src="https://img.shields.io/badge/Coding%20since-2009-0a0a0a?style=for-the-badge">
+  <img alt="Based in" src="https://img.shields.io/badge/Based%20in-Belo%20Horizonte%20%C2%B7%20BR-009C3B?style=for-the-badge">
+</p>
+
 I started in I.T. in 2007 and have been shipping web apps since 2009 — from JSP/Java backends to modern Server Components on the edge. I care deeply about **user experience**, **clean architecture** and **mentoring people**.
 
 - **Current role:** Senior Frontend Developer at **Cactus Gaming** (iGaming, 33+ platforms)
@@ -135,12 +140,6 @@ I started in I.T. in 2007 and have been shipping web apps since 2009 — from JS
   <a href="https://www.linkedin.com/in/luizhenriquebueno/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-luizhenriquebueno-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:contact@luizbueno.com"><img alt="Email" src="https://img.shields.io/badge/Email-contact@luizbueno.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.scrum.org/user/293231"><img alt="Scrum.org" src="https://img.shields.io/badge/Scrum.org-PSM%20I-0099E5?style=for-the-badge&logo=scrumalliance&logoColor=white"></a>
-</p>
-
-<p align="center">
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=luizgringo&style=for-the-badge&color=0a0a0a&label=PROFILE+VIEWS">
-  <img alt="Years coding" src="https://img.shields.io/badge/Coding%20since-2009-0a0a0a?style=for-the-badge">
-  <img alt="Based in" src="https://img.shields.io/badge/Based%20in-Belo%20Horizonte%20%C2%B7%20BR-009C3B?style=for-the-badge">
 </p>
 
 <p align="center">
